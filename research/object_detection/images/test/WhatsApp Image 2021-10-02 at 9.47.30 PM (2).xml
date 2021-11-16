@@ -1,0 +1,62 @@
+<annotation>
+	<folder>business card</folder>
+	<filename>WhatsApp Image 2021-10-02 at 9.47.30 PM (2).jpeg</filename>
+	<path>C:\Users\Ahmed-PC\Desktop\Fast Semester 07\Deep Learning\Project\business card\WhatsApp Image 2021-10-02 at 9.47.30 PM (2).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>932</width>
+		<height>543</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alphabetical</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>105</ymin>
+			<xmax>569</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>alphabetical</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>165</ymin>
+			<xmax>779</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>numerical</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>61</ymin>
+			<xmax>337</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>alphabetical</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>248</ymin>
+			<xmax>666</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>
